@@ -106,12 +106,16 @@ The assessment will follow a list of requirements that will be provided to the p
 
 
 ## Who are the task organizers?
-* Pål Halvorsen, Oslo Metropolitan University, University of Oslo, Norway (paalh at simula.no)
-* Michael Riegler, Oslo Metropolitan University, University of Oslo, Norway (michael at simula.no)
-* Thomas de Lange, Institute of Clinical Medicine, University of Oslo, Norway
-* Kristin Ranheim Randel, Cancer Registry of Norway, Norway
-* Duc-Tien Dang-Nguyen, Dublin City University, Ireland
-* Mathias Lux, University of Klagenfurt, Austria
+* Pål Halvorsen, paalh@simula.no, Simula Research Laboratory, (paalh@simula.no)
+* Michael Riegler, michael@simula.no, SimulaMet & University of Oslo, (michael@simula.no)
+* Andreas Petlund, andreas@augeremedical.com, Augere Medical
+* MD Pia Smedsrud, pia@simula.no, Augere Medical, Simula Research Laboratory
+* MD Thomas de Lange, t.d.lange@medisin.uio.no, Oslo University Hospital
+* MD Kristin Ranheim Randel, Kristin.Ranheim.Randel@kreftregisteret.no, Cancer Registry of Norway
+* MD Peter Thelin Smidt, peter.thelin-schmidt@sll.se, Karolinska Hospital
+* Trine B. Haugen, tribha@oslomet.no, Oslo Metropolitan University
+* Mathias Lux, mlux@itec.aau.at, Alpen-Adria-Universität Klagenfurt
+* Duc-Tien Dang-Nguyen, uctien.dangnguyen@uib.no, University of Bergen
 
 
 ## Where to get more information?
