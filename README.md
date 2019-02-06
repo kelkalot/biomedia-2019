@@ -1,6 +1,9 @@
 # The Biomedia ACM MM Grand Challenge 2019
 A Multimedia in Medicine Grand Challenge
 
+![Simula logo](simula_logo_main.png) 
+
+![Augere logo](Augere_logo-noncentered.png)
 
 ## What is this challenge about?
 
