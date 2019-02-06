@@ -1,31 +1,24 @@
-# biomedia-2019
-ACM-Grand-Challenge-2019-Biomedia
+# The Biomedia ACM MM Grand Challenge 2019
+A Multimedia in Medicine Grand Challenge
 
-## What is this task about?
 
-The task differs from existing medical imaging tasks, in that it uses only multimedia data (i.e., images and videos) 
-and no medical imaging data (i.e., CT scans). A further innovation is its focuses on two non-functional requirements: 
-using as little training data as possible and being computationally effective.
+## What is this challenge about?
 
-The task focuses on images of the gastrointestinal (GI) tract that were recorded by a special endoscopic device
-used during normal colonoscopies. 
-The task is to develop approaches that can detect abnormalities and diseases in early stages.
+The Biomedia Grand Challenge focuses on the emerging field of medical multimedia.
+In the field of multimedia, a trend towards medical applications can be observed. This fact is underlined by several newly emerging medical related workshops and special session in multimedia related conferences like MEDICO (http://www.multimediaeval.org/mediaeval2018/medico/) and MMHEALTH (https://mmhealth.uni-oldenburg.de). Nevertheless, even with these initiatives it seems there is still a long way to establish medical multimedia as a mainstream field within the multimedia community.
 
-The ultimate goal of the task is not only disease detection, but also perform it in an efficient and fast way and 
-the generation of automatic text reports (summaries) of findings in multimedia content. 
-The task works together with medical experts, who provide ground truth and help to develop it towards 
-addressing the specific challenges of automatic text reports.
+With this challenge, we hope to encourage the multimedia community to help improve the health care system. 
 
-This year, participants in this task are offered three subtasks.
+Through application of their knowledge and methods we can reach the next level of detection and interpretation of abnormalities, giving better computer and multimedia assisted diagnosis systems. In previous research in this area, computer vision and medical imaging have created visual augmentations of both the interior and exterior of the human body, such as AI for detecting skin cancer. To automatically detect and locate abnormalities, visual representations are not sufficient. There is a need for image and video processing, analysis, information search and retrieval, in combination with other sensor data and assistance from medical experts, and it all needs integration and efficient processing. Tackling the challenge can for example be addressed by leveraging techniques from multiple multimedia-related disciplines, including methods such as machine learning (classification), multimedia content analysis and multimodal fusion. 
 
-1) Detection: Detection of diseases with as few images in the training dataset as possible.
+This year the challenge will focus on the gastrointestinal (GI) tract with an aim to detect and classify abnormalities. 
+Medical domain experts are included in the organization and evaluation of the results. 
+As industry partner this year we include Augere Medical in the organization, who develops an automated screening and CAD system for GI tract examinations. Medical and industry experts will also be present at the ACM MM conference to provide direct feedback and possibilities to interact with researchers directly.
 
-2) Efficient detection: Solve the classification problem in a fast and efficient way.
+It is a typical assumption that visual analysis, as it is already provided by the computer vision and medical image processing communities today, is capable of already providing viable and practical approaches to healthcare multimedia challenges. Although we concede that these methods are indeed essential contributors to promising approaches, we realize the limitations of analysing images and videos alone in medical fields such as endoscopy, ultrasound, etc., because of the complexity and needs of medical experts and patients. Neither does it make enough use of the multitude of additional information sources including sensors and temporal information.
 
-3) Report generation (Experimental): Automatically create a text-report for a medical doctor for three video cases. 
+The challenge can be seen as very challenging and hard to solve and evaluate. Due to its novel use case, we hope to motivate a lot of researchers to have a look into the field of medical multimedia. Performing research that can have societal impact will be an important part of multimedia research in the future. We hope that the challenge can help to raise awareness of the topic, and also provide interesting and meaningful use cases to researchers.
 
-Participants can participate in as many subtasks they want.
-A list of what exactly to submit for evaluation will be released with the test dataset first of June. 
 
 ## What data is provided?
 
@@ -71,11 +64,9 @@ The ground truth for the data is collected from medical expert annotations (GI e
 
 Download details for the development dataset Kvasir: A Multi-Class Image Dataset for Computer Aided Gastrointestinal Disease Detection can be found here: https://github.com/biomedia-2019/wiki/Data-Release
 
-For the automatic report generation we will use three videos depicting diseases or findings that can be found in the 
-Kvasir dataset. 
-The goal is to generate reports describing the three videos for medical experts with having a automatic report generation in mind. 
-The evaluation of the reports will be done by three medical doctors.
-The videos for the evaluation and the exact evaluation criterias will be provided first of June.
+For the automatic report generation we will use videos depicting diseases or findings that can be found in the 
+Kvasir dataset. The goal is to generate reports describing the videos for medical experts with having an automatic report generation in mind. The evaluation of the reports will be done by three medical doctors.
+The videos for the evaluation and the exact evaluation criterias will be provided via !!!!!!!!!!(TODO ADD LINK HERE, THINK ABOUT WHAT VIDEOS TO USE)!!!!!!!.
 
 
 ## How is the performance measured?
@@ -92,8 +83,6 @@ For the evaluation of detection we use the standard metrics:
 * **Accuracy (ACC)**<br>The percentage of correctly identified true and false samples.
 * **Matthews correlation coefficient (MCC)**<br>MCC takes into account true and false positives and negatives, and is a balanced measure even if the classes are of very different sizes.
 * **F1 score (F1)**<br>A measure of a test’s accuracy by calculating the harmonic mean of the precision and recall.
-
-We will also evaluate how much training data has been used to achieve good results.
 
 For the evaluation of the processing time the organizers will run the code provided by the participants on the same 
 hardware and measure the time from input to output weighted by accuracy of the output. 
@@ -119,7 +108,7 @@ The assessment will follow a list of requirements that will be provided to the p
 
 
 ## Where to get more information?
-Detailed information on the task including description of the data, provided features, run submission, etc. 
+Detailed information on the task including description of the data, provided features, submission, etc. 
 can be found on the task wiki: https://github.com/biomedia-2019/wiki
 
 If you need help or have any questions please contact Pål Halvorsen or Michael Riegler.
