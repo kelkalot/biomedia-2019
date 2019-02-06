@@ -14,7 +14,7 @@ With this challenge, we hope to encourage the multimedia community to help impro
 
 Through application of their knowledge and methods we can reach the next level of detection and interpretation of abnormalities, giving better computer and multimedia assisted diagnosis systems. In previous research in this area, computer vision and medical imaging have created visual augmentations of both the interior and exterior of the human body, such as AI for detecting skin cancer. To automatically detect and locate abnormalities, visual representations are not sufficient. There is a need for image and video processing, analysis, information search and retrieval, in combination with other sensor data and assistance from medical experts, and it all needs integration and efficient processing. Tackling the challenge can for example be addressed by leveraging techniques from multiple multimedia-related disciplines, including methods such as machine learning (classification), multimedia content analysis and multimodal fusion. 
 
-This year the challenge will focus on the gastrointestinal (GI) tract with an aim to detect and classify abnormalities. 
+This year the challenge will focus on the *gastrointestinal (GI) tract* with an aim to detect and classify abnormalities. 
 Medical domain experts are included in the organization and evaluation of the results. 
 As industry partner this year we include Augere Medical in the organization, who develops an automated screening and CAD system for GI tract examinations. Medical and industry experts will also be present at the ACM MM conference to provide direct feedback and possibilities to interact with researchers directly.
 
