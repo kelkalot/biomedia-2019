@@ -95,8 +95,9 @@ The assessment will follow a list of requirements that will be provided to the p
 
 
 ## Who are the task organizers?
-* Pål Halvorsen, paalh@simula.no, Simula Research Laboratory
+* Pål Halvorsen, paalh@simula.no, SimulaMet
 * Michael Riegler, michael@simula.no, SimulaMet & University of Oslo
+* Håkon Kvale Stensland, haakonks@simula.no, Simula & University of Oslo
 * Andreas Petlund, andreas@augeremedical.com, Augere Medical
 * MD Pia Smedsrud, pia@simula.no, Augere Medical, Simula Research Laboratory
 * MD Thomas de Lange, t.d.lange@medisin.uio.no, Oslo University Hospital
