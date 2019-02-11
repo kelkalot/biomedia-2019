@@ -65,7 +65,7 @@ As mentioned before, the whole dataset is split onto two equally sized developme
 Pre-extracted features for all data (visual) will also be provided.
 The ground truth for the data is collected from medical expert annotations (GI endoscopists).
 
-Download details for the development dataset Kvasir: A Multi-Class Image Dataset for Computer Aided Gastrointestinal Disease Detection can be found here: https://github.com/biomedia-2019/wiki/Data-Release
+Download details for the development dataset Kvasir: A Multi-Class Image Dataset for Computer Aided Gastrointestinal Disease Detection can be found here: https://github.com/kelkalot/biomedia-2019/wiki/Data-Release
 
 For the automatic report generation we will use videos depicting diseases or findings that can be found in the 
 Kvasir dataset. The goal is to generate reports describing the videos for medical experts with having an automatic report generation in mind. The evaluation of the reports will be done by three medical doctors.
@@ -113,6 +113,6 @@ The assessment will follow a list of requirements that will be provided to the p
 
 ## Where to get more information?
 Detailed information on the task including description of the data, provided features, submission, etc. 
-can be found on the task wiki: https://github.com/biomedia-2019/wiki
+can be found on the task wiki: https://github.com/kelkalot/biomedia-2019/wiki
 
 If you need help or have any questions please contact Pål Halvorsen or Michael Riegler.
