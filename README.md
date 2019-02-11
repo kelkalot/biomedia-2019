@@ -115,4 +115,4 @@ The assessment will follow a list of requirements that will be provided to the p
 Detailed information on the task including description of the data, provided features, submission, etc. 
 can be found on the task wiki: https://github.com/kelkalot/biomedia-2019/wiki
 
-If you need help or have any questions please contact Pål Halvorsen or Michael Riegler.
+If you need help or have any questions please contact Pål Halvorsen or Michael Riegler. Please mark the email with *ACM Grand challenge biomedia-2019*.
