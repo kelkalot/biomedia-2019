@@ -94,7 +94,7 @@ Details about the hardware will be provided to the participants before submittin
 
 The automatic generated report will be assessed manually from three of our medical partners in terms of how 
 useful it is for them and if it satisfies existing demands for documentation of endoscopic procedures. 
-The assessment will follow a list of requirements that will be provided to the participants.
+The report will be evaluated based on usefulness, correctness and innovation.
 
 ## Prizes
 Augere Medical AS rewards the best contributions with prizes of a total of $2,000 USD distributed over the winners. The number of winners will depend on the number of participants and the quality of the results. The organizers reserve the complete right in the final judgement and decision.
