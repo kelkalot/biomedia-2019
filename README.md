@@ -69,7 +69,7 @@ Download details for the development dataset Kvasir: A Multi-Class Image Dataset
 
 For the automatic report generation we will use videos depicting diseases or findings that can be found in the 
 Kvasir dataset. The goal is to generate reports describing the videos for medical experts with having an automatic report generation in mind. The evaluation of the reports will be done by three medical doctors.
-The videos for the evaluation and the exact evaluation criterias will be provided via !!!!!!!!!!(TODO ADD LINK HERE, THINK ABOUT WHAT VIDEOS TO USE)!!!!!!!.
+The videos for the evaluation and the exact evaluation criterias will be provided via https://www.dropbox.com/sh/1bkopp53k01fc1i/AAB5-gdjpGrPjFbbSGEmUgfsa?dl=0
 
 
 ## How is the performance measured?
