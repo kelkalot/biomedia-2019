@@ -119,4 +119,4 @@ The winners of the challenge are required to provide a technique report describi
 Detailed information on the task including description of the data, provided features, submission, etc. 
 can be found on the task wiki: https://github.com/kelkalot/biomedia-2019/wiki
 
-If you need help or have any questions please contact Pål Halvorsen or Michael Riegler. Please mark the email with *ACM Grand challenge biomedia-2019*.
+If you need help or have any questions please contact Pål Halvorsen or Michael Riegler. Please mark the email with *ACM Grand Challenge Biomedia-2019*.
