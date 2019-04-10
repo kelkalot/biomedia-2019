@@ -102,8 +102,10 @@ Augere Medical AS rewards the best contributions with prizes of a total of $2,00
 The winners of the challenge are required to provide a technique report describing the details of the winning algorithms, and provide the source code to the organizers. The organizers will also run the released the code to test the reproducibility of the winner algorithms. The winners will give a presentation during the conference.
 
 ## Who are the task organizers?
-* Pål Halvorsen, paalh@simula.no, SimulaMet
-* Michael Riegler, michael@simula.no, SimulaMet & University of Oslo
+* Pål Halvorsen, paalh@simula.no, SimulaMet & OsloMet
+* Michael Riegler, michael@simula.no, SimulaMet
+* Steven Alexander Hicks, steven@simula,no, SimulaMet
+* Konstantin Pogorelov, konstantin@simula.no, Simula
 * Håkon Kvale Stensland, haakonks@simula.no, Simula & University of Oslo
 * Andreas Petlund, andreas@augeremedical.com, Augere Medical
 * MD Pia Smedsrud, pia@simula.no, Augere Medical, Simula Research Laboratory
