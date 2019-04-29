@@ -96,6 +96,8 @@ The automatic generated report will be assessed manually from three of our medic
 useful it is for them and if it satisfies existing demands for documentation of endoscopic procedures. 
 The report will be evaluated based on usefulness, correctness and innovation.
 
+Detailed information on the evaluation can be found here: https://github.com/kelkalot/biomedia-2019/wiki/Evaluation
+
 ## Prizes
 Augere Medical AS rewards the best contributions with prizes of a total of $2,000 USD distributed over the winners. The number of winners will depend on the number of participants and the quality of the results. The organizers reserve the complete right in the final judgement and decision.
 
